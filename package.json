@@ -1,0 +1,17 @@
+{
+  "name": "a-tg-bot-mini-app-pvk-priyut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "telegraf": "^4.16.3"
+  }
+}
